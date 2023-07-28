@@ -12,7 +12,7 @@ int prime() {
 
         fact=fact*x; 
 
-    printf("Factorial of %d is: %d\n",n,fact);
+    printf("Factorial %d is: %d\n",n,fact);
 
    // return 0;
 
